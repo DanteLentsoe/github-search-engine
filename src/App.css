@@ -1,0 +1,110 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.nav-tabs,
+.nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  font-weight: bold;
+  color: #000;
+}
+.nav-link {
+  font-size: 14px;
+  color: #586069;
+}
+
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.repositories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+i {
+  color: #6a6c6eb7;
+}
+.repo {
+  width: 45%;
+  border: solid 1px #ccc;
+  background-color: rgb(235, 235, 235);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.5s ease-in;
+}
+
+.repo:hover {
+  transform: scale(1.1, 1.1);
+  filter: invert(1);
+}
+
+.title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  line-height: 1.5rem;
+  max-height: 1.5rem;
+}
+.title > span {
+  color: #0366d6;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.description {
+  font-size: 14px;
+  color: rgb(90, 89, 89);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-height: 1.5rem;
+  max-height: 3rem;
+}
+.subitem {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
