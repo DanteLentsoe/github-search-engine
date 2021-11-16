@@ -5,6 +5,9 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Deployed App
+https://dantelentsoe.github.io/github-search-engine/
+
 ### Prerequisites
 
 Before we get started, we're going to need to make sure we have a few things installed and available on our machine.
