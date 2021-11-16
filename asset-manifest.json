@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github-search-engine/static/css/main.c2db5f2f.chunk.css",
+    "main.js": "/github-search-engine/static/js/main.6d773086.chunk.js",
+    "main.js.map": "/github-search-engine/static/js/main.6d773086.chunk.js.map",
+    "runtime-main.js": "/github-search-engine/static/js/runtime-main.83bf2254.js",
+    "runtime-main.js.map": "/github-search-engine/static/js/runtime-main.83bf2254.js.map",
+    "static/css/2.6ce60bb9.chunk.css": "/github-search-engine/static/css/2.6ce60bb9.chunk.css",
+    "static/js/2.cbc5a1c1.chunk.js": "/github-search-engine/static/js/2.cbc5a1c1.chunk.js",
+    "static/js/2.cbc5a1c1.chunk.js.map": "/github-search-engine/static/js/2.cbc5a1c1.chunk.js.map",
+    "index.html": "/github-search-engine/index.html",
+    "static/css/2.6ce60bb9.chunk.css.map": "/github-search-engine/static/css/2.6ce60bb9.chunk.css.map",
+    "static/css/main.c2db5f2f.chunk.css.map": "/github-search-engine/static/css/main.c2db5f2f.chunk.css.map",
+    "static/js/2.cbc5a1c1.chunk.js.LICENSE.txt": "/github-search-engine/static/js/2.cbc5a1c1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/github-search-engine/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/spinner.65edcaab.gif": "/github-search-engine/static/media/spinner.65edcaab.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83bf2254.js",
+    "static/css/2.6ce60bb9.chunk.css",
+    "static/js/2.cbc5a1c1.chunk.js",
+    "static/css/main.c2db5f2f.chunk.css",
+    "static/js/main.6d773086.chunk.js"
+  ]
+}
